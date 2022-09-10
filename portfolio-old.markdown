@@ -1,10 +1,10 @@
 ---
 layout: page
 title: Portfolio
-permalink: /portfolio/
+permalink: /portfolio-old/
 ---
 
-Hey!
+Hey! This is a portfolio of some of my recent work. An appendix of all of my work can be found at my [resume](resume.md)
 
 <div class="container">
         <div style="height: 140pt">

@@ -7,4 +7,4 @@ permalink: /blog/
 title: Blog
 ---
 
-Hello! 
+*Musings on machine learning, software engineering, startups, and life*

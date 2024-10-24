@@ -2,16 +2,17 @@
 layout: page
 ---
 
+I am interested in AI research, ML engineering, startups, and venture capital.
 
-Hey, I'm Rohan! I'm a student at [The Farm](https://www.stanford.edu/) studying Computer Science with interests in software development, machine learning, computer systems, and mathematics. This is my personal home page... which needs to be updated! For now, visit my [Portfolio](https://rosikand.github.io/portfolio) page. 
+In the past, I've conducted research in self-supervised learning at SAIL, engineered segmentation models at insitro, and built many ML projects.
 
-## Some recent things 
+See my [portfolio](./portfolio) page here for past projects and experiences.
 
-- easyset
-- rsbox 
+I also infrequently write about startups and venture capital on Substack at Rohan's Random Walks.
 
-Coming: 
-- Front-end for my notes 
+In my free time, I play golf and think.
+
+
 
 ![image](https://user-images.githubusercontent.com/57341225/182982113-90c7ee65-6b3d-4210-b1f8-66bcfc235d3b.png){:height="7px" width="4px"}
 
